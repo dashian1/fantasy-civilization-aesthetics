@@ -1,0 +1,13 @@
+interface:
+  display_name: 幻想文明美学导演
+  short_description: 从材质和形态出发，创作建筑、人物、生物与遗迹统一的电影美学组图
+  default_prompt: 使用 $fantasy-civilization-aesthetics，为我开发一套幻想文明，给出建筑、角色、生物和室内的8条完整MJ提示词。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
